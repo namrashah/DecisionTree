@@ -3,6 +3,8 @@ Decision Tree practical including post pruning
 
 The driver.py file contains an absolute path which needs to be changed before implementing.
 
+combined.py file contains the full code combining driver.py and DecisionTree.py, so it is easy to run just the one file containing all the code. You don't have to worry about any absolute path in this file.
+
 The haberman's survival dataset is used to test the model.
 
 Some part of data is kept for validation purposes.
